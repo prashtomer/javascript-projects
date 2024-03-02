@@ -1,4 +1,4 @@
 fileignoreconfig:
-- filename: increment-counter/index.html
-  checksum: e9ab70bd86b844b04fbeae130aaa4b12da7d4cb69f7258031add37205741abf0
+- filename: movie-app/script.js
+  checksum: 48b4815276cb26ad500f58bd423a3e211e0e4bd8555ac4cd93bd7d8c8a22fd90
 version: ""
