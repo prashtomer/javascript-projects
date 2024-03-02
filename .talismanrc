@@ -1,4 +1,4 @@
 fileignoreconfig:
-- filename: movie-app/script.js
-  checksum: 48b4815276cb26ad500f58bd423a3e211e0e4bd8555ac4cd93bd7d8c8a22fd90
+- filename: background-slider/index.html
+  checksum: 0dcd65f7b9a0df29c3b8c443e167070421ebb00906b5aafd339360788797e1ff
 version: ""
