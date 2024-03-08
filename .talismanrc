@@ -1,4 +1,6 @@
 fileignoreconfig:
-- filename: double-click-heart/index.html
-  checksum: 075072cc1e75e19f6504fd86f51d194b7497b49ddf7c0a5795be375307e8c4d9
+- filename: password-generator/index.html
+  checksum: 73da66c25fee1a2b868a9f55c50dd9235db5b39f4f8f2d0860b0d9122c910941
+- filename: password-generator/script.js
+  checksum: 4e1b047bde866bcefa6df31e6bf552e5772493b040b0e033cbd02850d7dc1285
 version: ""
