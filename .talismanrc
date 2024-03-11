@@ -1,4 +1,6 @@
 fileignoreconfig:
-- filename: mobile-tab-navigation/index.html
-  checksum: 7c566ec3ff202c3a3c8f824548c658373e5a8f2fc8406c100fb475e894486dfe
+- filename: password-strength-background/index.html
+  checksum: 45c45f214c33b396eeabb4fc5caf5a05e27d52ac271081393316c032e078d1c7
+- filename: password-strength-background/script.js
+  checksum: 13eef2b6927a82c73e613f8b197e11fda06dd1f45fadfa7900340026c22e2635
 version: ""
