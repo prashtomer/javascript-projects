@@ -1,6 +1,4 @@
 fileignoreconfig:
-- filename: testimonial-box-switcher/script.js
-  checksum: aeee88d2a47f8290286837dd86e8244ee7bbfec76aabe8b424322f5c025c7370
-- filename: testimonial-box-switcher/index.html
-  checksum: 306d37bfb74f87d7a93e6f137ef4d259c1e7f690f9620daa3691651e56edc135
+- filename: simple-timer/index.html
+  checksum: d0a99c6a6bc5e8cae694eb5d645a9356cbec3a87ca6ec11b4614fe8d3414fd76
 version: ""
