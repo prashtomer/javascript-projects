@@ -1,4 +1,6 @@
 fileignoreconfig:
-- filename: netflix-mobile-navigation/index.html
-  checksum: 3f3ab821082904ae17b807e08c37629bbe2418ec125fa902873612bc88236076
+- filename: testimonial-box-switcher/script.js
+  checksum: aeee88d2a47f8290286837dd86e8244ee7bbfec76aabe8b424322f5c025c7370
+- filename: testimonial-box-switcher/index.html
+  checksum: 306d37bfb74f87d7a93e6f137ef4d259c1e7f690f9620daa3691651e56edc135
 version: ""
